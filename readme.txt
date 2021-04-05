@@ -1,5 +1,6 @@
 Replication files for "Is Gibrat's "Economic Inequality" Lognormal?"
 Empirical Economics 59(5):2071-2091 (2020)
+https://doi.org/10.1007/s00181-019-01719-z
 by Sherzod B. Akhundjanov and Alexis Akira Toda
 
 Confirmed to run with Matlab 2019b
